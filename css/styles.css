@@ -149,6 +149,8 @@ body {
   max-width: 1440px;
   height: 600px;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
   padding-top: 188px;
   padding-bottom: 188px;
   background-color: var(--main-title-color);
@@ -295,6 +297,7 @@ body {
   height: 112px;
   background-size: 59.72px 64px;
   background-repeat: no-repeat;
+  margin-bottom: 8px;
   background-position: center;
   border-radius: 4px;
   background-color: var(--footer-logo-color);
